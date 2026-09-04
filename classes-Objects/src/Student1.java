@@ -11,7 +11,7 @@ class StudentDetails{
 }
 
 
-public class Student {
+public class Student1{
     public static void main(String[] args){
         StudentDetails stu1=new StudentDetails();
         StudentDetails stu2=new StudentDetails();
